@@ -14,7 +14,7 @@
 - 🔁 I love streamlining software delivery using **CI/CD practices**.
 - 🌱 Currently learning **advanced Kubernetes operators** and **GitOps workflows**.
 - 🤝 Looking to collaborate on **DevOps, Cloud, and Automation projects**.
-- 📫 Reach me at: `shraddha.yourmail@example.com` (replace with your actual email)
+- 📫 Reach me at: "wankhadeshraddha546@gmail.com"
 
 ---
 
